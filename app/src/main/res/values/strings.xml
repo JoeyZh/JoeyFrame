@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 通用 -->
+    <string name="app_name">JoeyFrame</string>
+    <string name="waiting">加载中...</string>
+
+    <string name="sdcard_out_memery">您的手机未插入SDCard,暂时无法使用此功能.</string>
+    <string name="sdcard_notenough">您的手机内存卡内存不足</string>
+
+    <string name="network_error_tips">网络连接不可用,是否进行设置?</string>
+    <string name="network_error">网络连接不可用,是否进行设置?</string>
+    <string name="pressback_exit">再按一次退出程序</string>
+
+    <!-- 主页 -->
+    <string name="add_new_file">呼一下</string>
+
+    <string-array name="array_setting_list">
+        <item>修改密码</item>
+        <item>定时设置</item>
+    </string-array>
+
+</resources>
